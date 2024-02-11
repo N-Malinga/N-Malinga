@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-malinga&label=Profile%20views&color=0e75b6&style=flat" alt="n-malinga" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-malinga" alt="n-malinga" /></a> </p>
-
 - 🔭 I’m currently working on [Ticketmate (Ticket Booking System)](https://github.com/SILVA-HSL/Software-Project-PTES.git)
 
 - 🌱 I’m currently learning **AI technology and exploring new advancements**
