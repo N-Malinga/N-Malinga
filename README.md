@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://blog.hyperiondev.com/wp-content/uploads/2021/01/webdev.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Malinga</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
