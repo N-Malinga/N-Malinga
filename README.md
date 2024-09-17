@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🔭 I’m currently working on [Ticketmate (Ticket Booking System)](https://github.com/SILVA-HSL/Software-Project-PTES.git)
+- 🔭 I’m currently working on [CompeteNow (Hackathon Event Management System)]
 
 - 🌱 I’m currently learning **AI technology and exploring new advancements**
 
